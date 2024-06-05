@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RestaurantReservation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zadatak.xsd">
+    <Reservation>
+        <ReservationID>12345</ReservationID>
+        <CustomerName>John Doe</CustomerName>
+        <ContactNumber>555-1234</ContactNumber>
+        <Email>john.doe@example.com</Email>
+        <ReservationDate>2024-06-10</ReservationDate>
+        <ReservationTime>19:00</ReservationTime>
+        <NumberOfGuests>4</NumberOfGuests>
+        <SpecialRequests>Vegetarian meal for one guest</SpecialRequests>
+    </Reservation>
+<Reservation><ReservationID>1104</ReservationID><CustomerName>Hrvoje Simić</CustomerName><ContactNumber>0998728274</ContactNumber><Email>hsimic@tvz.hr</Email><ReservationDate>2025-11-11</ReservationDate><ReservationTime>13:00</ReservationTime><NumberOfGuests>6</NumberOfGuests><SpecialRequests>Vegetarijanski obrok za jednu osobu</SpecialRequests></Reservation><Reservation><ReservationID>92823</ReservationID><CustomerName>Hrvoje Simić</CustomerName><ContactNumber>0998728274</ContactNumber><Email>hsimic@tvz.hr</Email><ReservationDate>2025-11-11</ReservationDate><ReservationTime>13:00</ReservationTime><NumberOfGuests>7</NumberOfGuests><SpecialRequests/></Reservation></RestaurantReservation>
